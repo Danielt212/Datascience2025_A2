@@ -11,6 +11,7 @@
 
 ## Repo structure
 
+```
 ├── .gitignore
 ├── README.md
 ├── data/
@@ -20,6 +21,7 @@
     ├── baseline/                 # Results from baseline model
     ├── hyperparameter_opt/       # Results from your HPO
     └── xai/                      # Results from XAI analysis
+```
 
 ---
 Last updated: April 5, 2024
