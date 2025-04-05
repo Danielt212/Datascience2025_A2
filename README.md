@@ -1,7 +1,7 @@
 ## Datascience2025_A2
 
 ## Dataset: 
-[Kaggle Dataset Link](https://www.kaggle.com/datasets/paultimothymooney/chest-xraypneumonia/)
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/)
 
 ## Instructions
 1. Download the dataset from Kaggle
